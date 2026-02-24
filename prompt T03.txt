@@ -1,0 +1,13 @@
+*prompt chatgpt
+aku ingin membuat program dengan sistem yang mendukung operasional loundry del
+sistem ini bertujuan agar seluruh loundry terdata dengan tepat, tidak ada yang tertukar, pendataan asrama sesuai dan tidak terdampar ke asrama lain, seluruh pakaian yang di loundry sesuai tidak ada yang kurang atau berlebih, dan datang tepat waktu 
+buat solusi tersebut dalam code program java
+jelaskan kegunaan masing masing
+    import java.time.LocalDate;
+    import java.time.temporal.ChronoUnit;
+    import java.util.ArrayList;
+    import java.util.Scanner;
+    import java.util.UUID;
+
+
+

@@ -1,0 +1,11 @@
+*prompt chatgpt
+buatlah code program yang menentukan kelompok mahasiswa melalui nilainya 
+menggunakan pola nilainya +5
+contohnya yohana 75, julius 65, indah 80, wilaon 70. dari contoh tersebut dapat dilihat bahwa antara laki laki dan perempuan +5 peningkatannya
+Inputnya berupa 
+1.	Jumlah total data (N).
+2.	Deret nilai (n1, n2, …, n).
+3.	Kode kelompok siswa
+code program yang menggunakan java
+baik laki laki maupun perempuan tetap menggunakan pola +5
+program yang akan dibuat mampu menentukan total nilai 

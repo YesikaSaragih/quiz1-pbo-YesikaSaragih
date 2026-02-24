@@ -1,0 +1,11 @@
+*prompt chatgpt
+buat contoh code program mengenai menu makanan menggunakan java
+memiliki daftar menu, harga menu, diskon, harga menu memakai kode masing masing 
+dengan kode menu : NGS, AP, SA, BU, MAP, GG, SAM, RD, IB, NUK
+dan menu : nasi goreng special, ayam penyet, sate ayam, bakso urat, mie ayam pangsit, gado gado, soto ayam, rendang daging, ikan bakar, nasi uduk komplit
+memiliki kupon biru diskon 5% dengan pembelian 100rb 
+kupon kuning 10% pembelian 200rb
+kupon merah 15% pembelian 300rb
+kupon hijau 20% pembelian 400rb
+kupon hitam 25% pembelian 500rb
+program berikut meiliki dua pembeli yaitu ucok dan butet dengan berat badan 100kg dan 50kg, mereka membeli makanan sesuai berat badan mereka
